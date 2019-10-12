@@ -1,35 +1,35 @@
-# Fun with flags / Banderas divertidas
+# Zábava s příznaky / vtipné vlajky
 
-Este repositorio se utilizará para realizar un juego de banderas inspirado en el programa de la serie de Big Bang Theory, donde el usuario podrá adivinar información de un país a partir de la imagen de su bandera.
+Toto úložiště bude použito k vytvoření hry vlajek inspirované programem řady Teorie velkého třesku, kde uživatel může uhodnout informace o zemi z obrazu své vlajky.
 
-Para esto aprovecharemos hacktoberfest para ayudar a recolectar información sobre los paises, ya tenemos una primera seleccion de banderas que podrán encontrar en la ruta de imagenes:
+K tomu použijeme hacktoberfest, abychom pomohli shromažďovat informace o zemích, již máme první výběr vlajek, které můžete najít v obrazové cestě:
 
-[Imagenes de banderas](https://github.com/xaca/juego_banderas/tree/master/img)
+[Obrázky vlajek](https://github.com/xaca/juego_banderas/tree/master/img)
 
-Buscamos completar un archivo json con la siguiente información de cada país, asi:
+Snažíme se vyplnit soubor json s následujícími informacemi z každé země, jako je tento:
 
-+ Nombre
-+ Capital
-+ Idioma
-+ Ruta de la imagen (Referenciar el nombre del archivo de la carpeta img)
++ Křestní jméno
++ Kapitál
++ Jazyk
++ Cesta k obrázku (uveďte název souboru ve složce img)
 
-## Instrucciones para participar
+## Pokyny k účasti
 
-+ Revisar la lista de paises que se encuentra en la carpeta [img](https://github.com/xaca/juego_banderas/tree/master/img)
-+ Actualizar la información completa de cada país en el archivo json
-+ Realizar mínimo 5 contribuciones al archivo con la información de países
-+ seguir las normas del [código de conducta del evento](https://docs.google.com/document/d/1gFKOhyUqMZzrZcbq8A_TpO5x9J9HK6agv70awCH8pyI/edit)
++ Prohlédněte si seznam zemí ve složce [img](https://github.com/xaca/juego_banderas/tree/master/img)
++ Aktualizujte úplné informace o každé zemi v souboru json
++ Do archivu udělejte alespoň 5 příspěvků s informacemi o zemi
++ dodržujte pravidla [kodexu chování](https://docs.google.com/document/d/1gFKOhyUqMZzrZcbq8A_TpO5x9J9HK6agv70awCH8pyI/edit)
 
-## Issues
+## Problémy
 
-+ [Información de cada país](https://github.com/xaca/juego_banderas/issues/1)
-+ [Ayuda con traducción archivo readme](https://github.com/xaca/juego_banderas/issues/2)
++ [Informace o každé zemi](https://github.com/xaca/juego_banderas/issues/1)
++ [Pomoc s překladem souboru readme](https://github.com/xaca/juego_banderas/issues/2)
 
-## Otros respositorios para colaborar
+## Další úložiště pro spolupráci
 
-Tenemos otros proyectos para participar y colaborar, si estas buscando nuevos proyectos en hacktoberfest, revisa los siguientes enlaces:
+Máme další projekty, které se mohou účastnit a spolupracovat. Pokud hledáte nové projekty v hacktoberfestu, podívejte se na následující odkazy:
 
-+ [C:heart:ding music](https://github.com/xaca/coding-music)
-+ [hola mundo](https://github.com/xaca/holamundo.co)
++ [C:heart:ding hudba](https://github.com/xaca/coding-music)
++ [ahoj svět](https://github.com/xaca/holamundo.co)
 
-¡Muchas gracias por su ayuda!
+Děkujeme za vaši pomoc!
