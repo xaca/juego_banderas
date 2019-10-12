@@ -1,35 +1,35 @@
-# Zábava s příznaky / vtipné vlajky
+# Zábava s vlajkami / Banderas divertidas
 
-Toto úložiště bude použito k vytvoření hry vlajek inspirované programem řady Teorie velkého třesku, kde uživatel může uhodnout informace o zemi z obrazu své vlajky.
+Este repositorio is used to unavegas de banderas inspirado en el a serie de Big Bang Theory, no usaario usrior adivinar información de pais a part im de la bandera.
 
-K tomu použijeme hacktoberfest, abychom pomohli shromažďovat informace o zemích, již máme první výběr vlajek, které můžete najít v obrazové cestě:
+Para esto aprovecharemos hacktoberfest para ayudar a reflectar información sobre los paises, ya tenemos prima seleccion de banderas que podrán encontrar en la ruta de imagenes:
 
-[Obrázky vlajek](https://github.com/xaca/juego_banderas/tree/master/img)
+[Imagenes de banderas](https://github.com/xaca/juego_banderas/tree/master/img)
 
-Snažíme se vyplnit soubor json s následujícími informacemi z každé země, jako je tento:
+Buscamos je kompletný archív s informáciami o tom, ako môže dôjsť k pauze, asi:
 
-+ Křestní jméno
-+ Kapitál
-+ Jazyk
-+ Cesta k obrázku (uveďte název souboru ve složce img)
++ nombre
++ kapitál
++ idioma
++ Ruta de la imagen (referenčný archív de la carpeta img)
 
-## Pokyny k účasti
+## Instrucciones para účastník
 
-+ Prohlédněte si seznam zemí ve složce [img](https://github.com/xaca/juego_banderas/tree/master/img)
-+ Aktualizujte úplné informace o každé zemi v souboru json
-+ Do archivu udělejte alespoň 5 příspěvků s informacemi o zemi
-+ dodržujte pravidla [kodexu chování](https://docs.google.com/document/d/1gFKOhyUqMZzrZcbq8A_TpO5x9J9HK6agv70awCH8pyI/edit)
++ Revízia zoznamu skladieb en enententra en la carpeta [img](https://github.com/xaca/juego_banderas/tree/master/img)
++ Aktuálne informácie o kompletnom zázname v databáze archívov
++ Realizar mínimo 5 prispievateľov do archívov s informáciami o países
++ seguir las normas del [código de behaviora](https://docs.google.com/document/d/1gFKOhyUqMZzrZcbq8A_TpO5x9J9HK6agv70awCH8pyI/edit) del [evento](https://docs.google.com/document/d/1gFKOhyUqMZzrZcbq8A_TpO5x9J9HK6agv70awCH8pyI/edit)
 
 ## Problémy
 
-+ [Informace o každé zemi](https://github.com/xaca/juego_banderas/issues/1)
-+ [Pomoc s překladem souboru readme](https://github.com/xaca/juego_banderas/issues/2)
++ [Informácie o pada](https://github.com/xaca/juego_banderas/issues/1)
++ [Ayuda con traducción archivo readme](https://github.com/xaca/juego_banderas/issues/2)
 
-## Další úložiště pro spolupráci
+## Otros respositorios para colaborar
 
-Máme další projekty, které se mohou účastnit a spolupracovat. Pokud hledáte nové projekty v hacktoberfestu, podívejte se na následující odkazy:
+Tenemos otros proyectos para participar y colaborar, si estas buscando nuevos proyectos en hacktoberfest, reva los siguientes enlaces:
 
 + [C:heart:ding hudba](https://github.com/xaca/coding-music)
-+ [ahoj svět](https://github.com/xaca/holamundo.co)
++ [hola mundo](https://github.com/xaca/holamundo.co)
 
-Děkujeme za vaši pomoc!
+¡Muchas gracias por su ayuda!
