@@ -1,3 +1,4 @@
 [
-    {nombre:"Colombia",capital:"Bogota",idioma:"Español",img:"Colombia-01.png"}
+    {"nombre":"Colombia","capital":"Bogota","idioma":"Español","img":"Colombia-01.png"},
+    {"nombre":"India","capital":"New Delhi","idioma":"Hindi","img":"India-01.png"}
 ]
