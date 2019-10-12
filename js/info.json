@@ -1,5 +1,6 @@
 [
     {nombre:"Colombia",capital:"Bogota",idioma:"Español",img:"Colombia-01.png"},
-    {nombre:"India",capital:"Delhi",idioma:"Hindi",img:"India-01.png"}
+    {nombre:"India",capital:"Delhi",idioma:"Hindi",img:"India-01.png"},
+    {nombre:"Australia",capital:"Canberra",idioma:"English",img:"Australia-01.png"}
 
 ]
