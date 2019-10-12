@@ -22,6 +22,9 @@ Buscamos completar un archivo json con la siguiente información de cada país, 
 
 ## Issues
 
++ [Información de cada país](https://github.com/xaca/juego_banderas/issues/1)
++ [Ayuda con traducción archivo readme](https://github.com/xaca/juego_banderas/issues/2)
+
 ## Otros respositorios para colaborar
 
 Tenemos otros proyectos para participar y colaborar, si estas buscando nuevos proyectos en hacktoberfest, revisa los siguientes enlaces:
