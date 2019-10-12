@@ -1,3 +1,7 @@
 [
-    {nombre:"Colombia",capital:"Bogota",idioma:"Español",img:"Colombia-01.png"}
+    {nombre:"Colombia",capital:"Bogota",idioma:"Español",img:"Colombia-01.png"},
+    {nombre: "Brasil", capital:"Brasília", idioma:"Português", img:"Brazil-01.png"},
+    {nombre: "United States of America", capital:"Washington", idioma:"Inglês", img:"United States of America-01.png"}
+
+
 ]
