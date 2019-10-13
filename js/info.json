@@ -1,9 +1,11 @@
 [
     {nombre:"Colombia",capital:"Bogota",idioma:"Español",img:"Colombia-01.png"},
     {nombre:"Perú", capital: "Lima", idioma: "Español", img:"Peru-01.png"},
-    {nombre:"Brasil", capital: "Brasilia", idioma: "Portugues", img:"Brazil-01.png"},
     {nombre:"Japon", capital: "Tokio", idioma: "Japones", img: "Japan-01.png"},
     {nombre:"Taiwan", capital: "Taipéi", idioma: "Mandarin", img: "Taiwan-01.png"},
     {nombre:"Chile", capital: "Santiago de Chile", idioma: "Español", img: "Chile-01.png"},
-    {nombre:"Egipto", capital: "El cairo", idioma:"Árabe", img: "Egypt-01.png"}
+    {nombre:"Egipto", capital: "El cairo", idioma:"Árabe", img: "Egypt-01.png"},
+    {nombre: "Brasil", capital:"Brasília", idioma:"Português", img:"Brazil-01.png"},
+    {nombre: "United States of America", capital:"Washington", idioma:"Inglês", img:"United States of America-01.png"}
 ]
+
