@@ -1,7 +1,7 @@
 [
     {"nombre":"Colombia","capital":"Bogota","idioma":"Español","img":"Colombia-01.png"},
     {"nombre":"Afghanistan","capital":"Kabul","idioma":"Persa","img":"Afghanistan-01.png"},
-    {"nombre":"Albania","capital":"Tirana","idioma":"Tosk","img":"Albania-01.png"},
+    {"nombre":"Albania","capital":"Tirana","idioma":"Albanian","img":"Albania-01.png"},
     {"nombre":"Algeria","capital":"Algiers","idioma":"Arábica","img":"Algeria-01.png"},
     {"nombre":"Andorra","capital":"Andorra La Vella","idioma":"Catalán","img":"Andorra-01.png"},
     {"nombre":"Angola","capital":"Luanda","idioma":"Portugués","img":"Angola-01.png"},
