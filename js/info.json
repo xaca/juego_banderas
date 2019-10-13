@@ -28,5 +28,10 @@
     {"nombre":"Uruguay","capital":"Montevideo","idioma":"Español","img":"Uruguay-01.png"},
     {"nombre":"Venezuela","capital":"Caracas","idioma":"Español","img":"Venezuela-01.png"},
     {"nombre":"Vietnam","capital":"Hanoi","idioma":"Vietnamita","img":"Vietnam-01.png"},
-    {"nombre":"Yemen","capital":"Sana'a","idioma":"árabe","img":"Yemen-01.png"}
+    {"nombre":"Yemen","capital":"Sana'a","idioma":"árabe","img":"Yemen-01.png"},
+    {"nombre":"Nigeria","capital":"FCT Abuja","idioma":"Inglés","img":"Nigeria-01.png"},
+    {"nombre":"Egypt","capital":"Cairo","idioma":"Árabe","img":"Egypt-01.png"},
+    {"nombre":"Gabon","capital":"Libreville","idioma":"Francés","img":"Gabon-01.png"},
+    {"nombre":"Congo","capital":"Kinshasa","idioma":"Francés","img":"Gabon-01.png"},
+    {"nombre":"Benin","capital":"Porto-Novo","idioma":"Francés","img":"Gabon-01.png"}
 ]
