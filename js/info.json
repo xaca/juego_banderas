@@ -33,5 +33,10 @@
     {"nombre":"Egypt","capital":"Cairo","idioma":"Árabe","img":"Egypt-01.png"},
     {"nombre":"Gabon","capital":"Libreville","idioma":"Francés","img":"Gabon-01.png"},
     {"nombre":"Congo","capital":"Kinshasa","idioma":"Francés","img":"Congo Democratic Republic.png"},
-    {"nombre":"Benin","capital":"Porto-Novo","idioma":"Francés","img":"Benin-01.png"}
+    {"nombre":"Benin","capital":"Porto-Novo","idioma":"Francés","img":"Benin-01.png"},
+    {"nombre":"Bulgaria","capital":"Sofia","idioma":"Bulgarian","img":"Bulgaria-01.png"},
+    {"nombre":"Spain","capital":"Madrid","idioma":"Spanish","img":"Spain-01.png"},
+    {"nombre":"Sweden","capital":"Stockholm","idioma":"Swedish","img":"Sweden-01.png"},
+    {"nombre":"Thailand","capital":"Bangkok","idioma":"Thai","img":"Thailand-01.png"},
+    {"nombre":"Ukraine","capital":"Kiev","idioma":"Ukrainian","img":"Ukraine-01.png"}
 ]
