@@ -1,3 +1,8 @@
 [
-    {nombre:"Colombia",capital:"Bogota",idioma:"Español",img:"Colombia-01.png"}
+    {nombre:"Colombia",capital:"Bogota",idioma:"Español",img:"Colombia-01.png"},
+    {nombre:"México",capital:"Ciudad de México",idioma:"Español",img:"Mexico-01.png"},
+    {nombre:"Afghanistan",capital:"Kabul",idioma:"Pashto",img:"Afghanistan-01.png"},
+    {nombre:"Albania",capital:"Tirana",idioma:"Albanian",img:"Albania-01.png"},
+    {nombre:"Algeria",capital:"Algiers",idioma:"Arabic",img:"Algeria-01.png"},
+    {nombre:"Andorra",capital:"Andorra la Vella",idioma:"Catalan",img:"Andorra-01.png"}
 ]
