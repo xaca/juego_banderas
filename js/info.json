@@ -32,6 +32,6 @@
     {"nombre":"Nigeria","capital":"FCT Abuja","idioma":"Inglés","img":"Nigeria-01.png"},
     {"nombre":"Egypt","capital":"Cairo","idioma":"Árabe","img":"Egypt-01.png"},
     {"nombre":"Gabon","capital":"Libreville","idioma":"Francés","img":"Gabon-01.png"},
-    {"nombre":"Congo","capital":"Kinshasa","idioma":"Francés","img":"Gabon-01.png"},
-    {"nombre":"Benin","capital":"Porto-Novo","idioma":"Francés","img":"Gabon-01.png"}
+    {"nombre":"Congo","capital":"Kinshasa","idioma":"Francés","img":"Congo Democratic Republic.png"},
+    {"nombre":"Benin","capital":"Porto-Novo","idioma":"Francés","img":"Benin-01.png"}
 ]
