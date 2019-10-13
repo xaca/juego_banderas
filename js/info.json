@@ -11,5 +11,17 @@
     {"nombre":"Australia","capital":"Canberra","idioma":"Inglés","img":"Australia-01.png"},
     {"nombre":"Austria","capital":"Vienna","idioma":"Alemán","img":"Austria-01.png"},
     {"nombre":"Azerbaijan","capital":"Baku","idioma":"Turco azerbaiyano","img":"Azerbaijan-01.png"},
-    {"nombre":"Bahamas","capital":"Nassau","idioma":"Inglés","img":"Bahamas-01.png"}
+    {"nombre":"Bahamas","capital":"Nassau","idioma":"Inglés","img":"Bahamas-01.png"},
+    {"nombre":"Bangladesh", "capital":"Dhaka","idioma":"Bengali", "img":"Bangladesh-01.png"},
+    {"nombre":"Bhutan", "capital":"Thimphu","idioma":"Dzongkha", "img":"Bhutan-01.png"},
+    {"nombre":"China", "capital":"Beijing","idioma":"Mandarin", "img":"China-01.png"},
+    {"nombre":"Denmark", "capital":"Copenhagen","idioma":"Danish", "img":"Denmark-01.png"},
+    {"nombre":"India","capital":"Delhi","idioma":"Hindi","img":"India-01.png"},
+    {nombre:"Perú", capital: "Lima", idioma: "Español", img:"Peru-01.png"},
+    {nombre:"Japon", capital: "Tokio", idioma: "Japones", img: "Japan-01.png"},
+    {nombre:"Taiwan", capital: "Taipéi", idioma: "Mandarin", img: "Taiwan-01.png"},
+    {nombre:"Chile", capital: "Santiago de Chile", idioma: "Español", img: "Chile-01.png"},
+    {nombre:"Egipto", capital: "El cairo", idioma:"Árabe", img: "Egypt-01.png"},
+    {nombre: "Brasil", capital:"Brasília", idioma:"Português", img:"Brazil-01.png"},
+    {nombre: "United States of America", capital:"Washington", idioma:"Inglês", img:"United States of America-01.png"}
 ]
