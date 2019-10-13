@@ -17,11 +17,16 @@
     {"nombre":"China", "capital":"Beijing","idioma":"Mandarin", "img":"China-01.png"},
     {"nombre":"Denmark", "capital":"Copenhagen","idioma":"Danish", "img":"Denmark-01.png"},
     {"nombre":"India","capital":"Delhi","idioma":"Hindi","img":"India-01.png"},
-    {nombre:"Perú", capital: "Lima", idioma: "Español", img:"Peru-01.png"},
-    {nombre:"Japon", capital: "Tokio", idioma: "Japones", img: "Japan-01.png"},
-    {nombre:"Taiwan", capital: "Taipéi", idioma: "Mandarin", img: "Taiwan-01.png"},
-    {nombre:"Chile", capital: "Santiago de Chile", idioma: "Español", img: "Chile-01.png"},
-    {nombre:"Egipto", capital: "El cairo", idioma:"Árabe", img: "Egypt-01.png"},
-    {nombre: "Brasil", capital:"Brasília", idioma:"Português", img:"Brazil-01.png"},
-    {nombre: "United States of America", capital:"Washington", idioma:"Inglês", img:"United States of America-01.png"}
+    {"nombre":"Perú", "capital": "Lima", "idioma": "Español", "img":"Peru-01.png"},
+    {"nombre":"Japon", "capital": "Tokio", "idioma": "Japones", "img": "Japan-01.png"},
+    {"nombre":"Taiwan", "capital": "Taipéi", "idioma": "Mandarin", "img": "Taiwan-01.png"},
+    {"nombre":"Chile", "capital": "Santiago de Chile", "idioma": "Español", "img": "Chile-01.png"},
+    {"nombre":"Egipto", "capital": "El cairo", "idioma":"Árabe", "img": "Egypt-01.png"},
+    {"nombre":"Brasil", "capital":"Brasília", "idioma":"Português", "img":"Brazil-01.png"},
+    {"nombre":"United States of America", "capital":"Washington", "idioma":"Inglés", "img":"United States of America-01.png"},
+    {"nombre":"United Kingdom","capital":"London","idioma":"Inglés","img":"United Kingdom-01.png"},
+    {"nombre":"Uruguay","capital":"Montevideo","idioma":"Español","img":"Uruguay-01.png"},
+    {"nombre":"Venezuela","capital":"Caracas","idioma":"Español","img":"Venezuela-01.png"},
+    {"nombre":"Vietnam","capital":"Hanoi","idioma":"Vietnamita","img":"Vietnam-01.png"},
+    {"nombre":"Yemen","capital":"Sana'a","idioma":"árabe","img":"Yemen-01.png"}
 ]
