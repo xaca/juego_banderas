@@ -1,4 +1,5 @@
 [
+<<<<<<< HEAD
     {"nombre":"Afghanistan","capital":"Kabul","idioma":"Persa","img":"Afghanistan-01.png"},
     {"nombre":"Albania","capital":"Tirana","idioma":"Tosk","img":"Albania-01.png"},
     {"nombre":"Algeria","capital":"Algiers","idioma":"Arábica","img":"Algeria-01.png"},
@@ -56,3 +57,8 @@
     {"nombre":"Vietnam","capital":"Hanoi","idioma":"Vietnamita","img":"Vietnam-01.png"},
     {"nombre":"Yemen","capital":"Sana'a","idioma":"árabe","img":"Yemen-01.png"},
 ]
+=======
+    {nombre:"Colombia",capital:"Bogota",idioma:"Español",img:"Colombia-01.png"},
+    {nombre:"Taiwan",capital:"Taipei",idioma:"Traditional Chinese(Mandarin)",img:"Taiwan-01.png"}
+]
+>>>>>>> add zh-TW readme and info
