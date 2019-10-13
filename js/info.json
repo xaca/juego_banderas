@@ -1,3 +1,8 @@
 [
-    {nombre:"Colombia",capital:"Bogota",idioma:"Español",img:"Colombia-01.png"}
+    {nombre:"Colombia",capital:"Bogota",idioma:"Español",img:"Colombia-01.png"},
+    {nombre:"Turkey",capital:"Ankara",idioma:"Turkish",img:"Turkey-01.png"},
+    {nombre:"Kazakhstan",capital:"Nur-Sultan",idioma:"Kazakh",img:"Kazakhstan-01.png"},
+    {nombre:"Azerbaijan",capital:"Baku",idioma:"Azeri",img:"Azerbaijan-01.png"},
+    {nombre:"Hungary",capital:"Budapest",idioma:"Hungarian",img:"Hungary-01.png"},
+    {nombre:"Bulgaria",capital:"Sofia",idioma:"Bulgarian",img:"Bulgaria-01.png"}    
 ]
