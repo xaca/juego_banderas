@@ -1,3 +1,8 @@
 [
-    {nombre:"Colombia",capital:"Bogota",idioma:"Español",img:"Colombia-01.png"}
+    {nombre:"Colombia",capital:"Bogota",idioma:"Español",img:"Colombia-01.png"},
+    {nombre:"United Kingdom",capital:"London",idioma:"Inglés",img:"United Kingdom-01.png"},
+    {nombre:"Uruguay",capital:"Montevideo",idioma:"Español",img:"Uruguay-01.png"},
+    {nombre:"Venezuela",capital:"Caracas",idioma:"Español",img:"Venezuela-01.png"},
+    {nombre:"Vietnam",capital:"Hanoi",idioma:"Vietnamita",img:"Vietnam-01.png"},
+    {nombre:"Yemen",capital:"Sana'a",idioma:"árabe",img:"Yemen-01.png"}
 ]
