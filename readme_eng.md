@@ -15,10 +15,10 @@ We seek to complete a json file with the following information from each country
 
 ## Instructions to participate
 
-+ Review the list of countries in the img folder
++ Review the list of countries in the [img](https://github.com/xaca/juego_banderas/tree/master/img) folder
 + Update the complete information of each country in the json file
 + Make at least 5 contributions to the archive with the country information
-+ Follow the rules of the event code of conduct
++ Follow the rules of [the event code of conduct](https://docs.google.com/document/d/1gFKOhyUqMZzrZcbq8A_TpO5x9J9HK6agv70awCH8pyI/edit)
 
 ## Issues
 + [Information of each country](https://github.com/xaca/juego_banderas/issues/1)
@@ -28,6 +28,6 @@ We seek to complete a json file with the following information from each country
 We have other projects to participate and collaborate, if you are looking for new projects in hacktoberfest, check the following links:
 
 + [C:heart:ding music](https://github.com/xaca/coding-music)
-+ [hola mundo](https://github.com/xaca/holamundo.co)
++ [Hello World](https://github.com/xaca/holamundo.co)
 
 Thank you very much for your help!
