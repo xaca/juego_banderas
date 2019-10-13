@@ -1,5 +1,7 @@
 [
     {nombre:"Colombia",capital:"Bogota",idioma:"Español",img:"Colombia-01.png"},
+    {nombre:"India",capital:"Delhi",idioma:"Hindi",img:"India-01.png"},
+    {nombre:"Australia",capital:"Canberra",idioma:"English",img:"Australia-01.png"},
     {nombre:"Perú", capital: "Lima", idioma: "Español", img:"Peru-01.png"},
     {nombre:"Japon", capital: "Tokio", idioma: "Japones", img: "Japan-01.png"},
     {nombre:"Taiwan", capital: "Taipéi", idioma: "Mandarin", img: "Taiwan-01.png"},
@@ -8,4 +10,3 @@
     {nombre: "Brasil", capital:"Brasília", idioma:"Português", img:"Brazil-01.png"},
     {nombre: "United States of America", capital:"Washington", idioma:"Inglês", img:"United States of America-01.png"}
 ]
-
