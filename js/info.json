@@ -1,4 +1,10 @@
 [
+
+    {"nombre":"Argentina", "capital":"Buenos Aires","idioma":"Español", "img":"Argentina-01.png"},
+    {"nombre":"Bangladesh", "capital":"Dhaka","idioma":"Bengali", "img":"Bangladesh-01.png"},
+    {"nombre":"Bhutan", "capital":"Thimphu","idioma":"Dzongkha", "img":"Bhutan-01.png"},
+    {"nombre":"China", "capital":"Beijing","idioma":"Mandarin", "img":"China-01.png"},
+    {"nombre":"Denmark", "capital":"Copenhagen","idioma":"Danish", "img":"Denmark-01.png"},
     {nombre:"Colombia",capital:"Bogota",idioma:"Español",img:"Colombia-01.png"},
     {nombre:"India",capital:"Delhi",idioma:"Hindi",img:"India-01.png"},
     {nombre:"Australia",capital:"Canberra",idioma:"English",img:"Australia-01.png"},
