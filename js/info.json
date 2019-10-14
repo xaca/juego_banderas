@@ -45,5 +45,10 @@
     {"nombre":"Spain","capital":"Madrid","idioma":"Spanish","img":"Spain-01.png"},
     {"nombre":"Sweden","capital":"Stockholm","idioma":"Swedish","img":"Sweden-01.png"},
     {"nombre":"Thailand","capital":"Bangkok","idioma":"Thai","img":"Thailand-01.png"},
-    {"nombre":"Ukraine","capital":"Kiev","idioma":"Ukrainian","img":"Ukraine-01.png"}
+    {"nombre":"Ukraine","capital":"Kiev","idioma":"Ukrainian","img":"Ukraine-01.png"},
+    {"nombre":"Indonesia","capital":"Jakarta","idioma":"Bahasa Indonesia","img":"Indonesia-01.png"},
+    {"nombre":"Malaysia","capital":"Kuala Lumpur","idioma":"Malay","img":"Malaysia-01.png"},
+    {"nombre":"Singapore","capital":"Singapore","idioma":"Malay","img":"Singapore-01.png"},
+    {"nombre":"Philippines","capital":"Manila","idioma":"Filipino","img":"Philippines-01.png"},
+    {"nombre":"Brunei","capital":"Bandar Seri Begawan","idioma":"Malay","img":"Brunei-01.png"}
 ]
