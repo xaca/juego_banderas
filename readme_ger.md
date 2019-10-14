@@ -15,7 +15,7 @@ Wir versuchen wie folgt, eine json-Datei mit den folgenden Informationen aus jed
 
 ## Anweisungen zur Teilnahme
 
-+ Überprüfen Sie die Liste der Länder im im img-Ordner
++ Überprüfen Sie die Liste der Länder im img-Ordner
 + Aktualisieren Sie vollständig die Informationen über jedes Land in der json-Datei
 + Mindestens 5 Beiträge zum Archiv mit den Länderinformationen leisten
 + Befolgen Sie die Regeln des Event-Verhaltenskodexes
