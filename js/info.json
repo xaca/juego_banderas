@@ -26,8 +26,12 @@
     {"nombre":"Colombia","capital":"Bogota","idioma":"Español","img":"Colombia-01.png"},
     {"nombre":"Denmark", "capital":"Copenhagen","idioma":"Danish", "img":"Denmark-01.png"},
     {"nombre":"Egypt", "capital": "El cairo", "idioma":"Árabe", "img": "Egypt-01.png"},
+    {"nombre":"England", "capital": "London", "idioma":"English", "img": "England-01.png"},
+    {"nombre":"France", "capital": "Paris", "idioma":"French", "img": "France-01.png"},
     {"nombre":"India","capital":"Delhi","idioma":"Hindi","img":"India-01.png"},
+    {"nombre":"Ireland","capital":"Dublin","idioma":"English","img":"Ireland-01.png"},
     {"nombre":"Japan", "capital": "Tokio", "idioma": "Japones", "img": "Japan-01.png"},
+    {"nombre":"Luxembourg", "capital": "Luxembourg", "idioma": "Luxembourgish", "img": "Luxembourg-01.png"},
     {"nombre":"Perú", "capital": "Lima", "idioma": "Español", "img":"Peru-01.png"},
     {"nombre":"Taiwan", "capital": "Taipéi", "idioma": "Mandarin", "img": "Taiwan-01.png"},
     {"nombre":"United Kingdom","capital":"London","idioma":"Inglés","img":"United Kingdom-01.png"},
@@ -44,6 +48,7 @@
     {"nombre":"Bulgaria","capital":"Sofia","idioma":"Bulgarian","img":"Bulgaria-01.png"},
     {"nombre":"Spain","capital":"Madrid","idioma":"Spanish","img":"Spain-01.png"},
     {"nombre":"Sweden","capital":"Stockholm","idioma":"Swedish","img":"Sweden-01.png"},
+    {"nombre":"Switzerland","capital":"Bern","idioma":"German","img":"Switzerland-01.png"},
     {"nombre":"Thailand","capital":"Bangkok","idioma":"Thai","img":"Thailand-01.png"},
     {"nombre":"Ukraine","capital":"Kiev","idioma":"Ukrainian","img":"Ukraine-01.png"}
 ]
