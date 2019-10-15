@@ -180,10 +180,40 @@
     "img": "Dominica-01.png"
   },
   {
+    "nombre": "Ecuador",
+    "capital": "Quito",
+    "idioma": "Spanish",
+    "img": "Ecuador-01.png"
+  },
+  {
     "nombre": "Egipto",
     "capital": "Cairo",
     "idioma": "Árabe",
     "img": "Egypt-01.png"
+  },
+  {
+    "nombre": "England",
+    "capital": "London",
+    "idioma": "English",
+    "img": "England-01.png"
+  },
+  {
+    "nombre": "Eritrea",
+    "capital": "Asmara",
+    "idioma": "tigré",
+    "img": "Eritrea-01.png"
+  },
+  {
+    "nombre": "Estonia",
+    "capital": "Tallin",
+    "idioma": "Estonio",
+    "img": "Estonia-01.png"
+  },
+  {
+    "nombre": "Ethiopia",
+    "capital": "Cairo",
+    "idioma": "Amhárico",
+    "img": "Ethiopia-01.png"
   },
   {
     "nombre": "España",
