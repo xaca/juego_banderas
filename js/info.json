@@ -65,6 +65,12 @@
     "idioma": "Turco azerbaiyano",
     "img": "Azerbaijan-01.png"
   },
+   {
+    "nombre": "Burundi",
+    "capital": "Gitega",
+    "idioma": "Kirundi",
+    "img": "Burundi-01.png"
+  },
   {
     "nombre": "Bahamas",
     "capital": "Nassau",
@@ -137,6 +143,18 @@
     "idioma": "Búlgaro",
     "img": "Bulgaria-01.png"
   },
+   {
+    "nombre": "Botswana",
+    "capital": "Gaborone",
+    "idioma": "English",
+    "img": "Botswana-01.png"
+  },
+   {
+    "nombre": "Cyprus",
+    "capital": "Nicosia",
+    "idioma": "Greek",
+    "img": "Cyprus-01.png"
+  },
   {
     "nombre": "Chile",
     "capital": "Santiago de Chile",
@@ -166,6 +184,18 @@
     "capital": "Havana",
     "idioma": "Español",
     "img": "Cuba-01.png"
+  },
+  {
+    "nombre": "Cambodia",
+    "capital": " Phnom Penh",
+    "idioma": "Khmer",
+    "img": "Cambodia-01.png"
+  },
+   {
+    "nombre": "Chad",
+    "capital": "N'Djamena",
+    "idioma": "Arabic",
+    "img": "Chad-01.png"
   },
   {
     "nombre": "Dinamarca",
