@@ -12,6 +12,12 @@
     "img": "Albania-01.png"
   },
   {
+    "nombre": "Alemania",
+    "capital": "Alemán",
+    "idioma": "Berlín",
+    "img": "Germany-01.png"
+  },
+  {
     "nombre": "Algeria",
     "capital": "Algiers",
     "idioma": "Arábica",
@@ -95,6 +101,12 @@
     "idioma": "Bielorruso",
     "img": "Belarus-01.png"
   },
+{
+    "nombre": "Bélgica",
+    "capital": "Bruselas",
+    "idioma": "	neerlandés",
+    "img": "Belgium-01.png"
+  },
   {
     "nombre": "Benin",
     "capital": "Porto-Novo",
@@ -154,6 +166,11 @@
     "capital": "Bogotá",
     "idioma": "Español",
     "img": "Colombia-01.png"
+  {
+    "nombre": "Chipre",
+    "capital": "Nicosia",
+    "idioma": "Griego",
+    "img": "Cyprus-01.png"
   },
   {
     "nombre": "Congo",
@@ -192,6 +209,12 @@
     "img": "Spain-01.png"
   },
   {
+    "nombre": "Finlandia",
+    "capital": "Helsinki",
+    "idioma": "Finés",
+    "img": "Finland-01.png"
+  },
+  {
     "nombre": "France",
     "capital": "Paris",
     "idioma": "French",
@@ -208,6 +231,12 @@
     "capital": "Port-au-Prince",
     "idioma": "Francés",
     "img": ""
+  },
+  {
+	"nombre": "Hungría",
+	"capital": "Budapest",
+	"idioma": "Húngaro",
+	"img": "Hungary-01.png"
   },
   {
     "nombre": "India",
