@@ -138,6 +138,36 @@
     "img": "Bulgaria-01.png"
   },
   {
+    "nombre": "Burkina Faso",
+    "capital": "Ouagadougou",
+    "idioma": "Mòoré, Fula, Dioula",
+    "img": "Burkina Faso-01.png"
+  },
+  {
+    "nombre": "Burundi",
+    "capital": "Gitega",
+    "idioma": "Kirundi, French, English",
+    "img": "Burundi-01.png"
+  },
+  {
+    "nombre": "Cambodia",
+    "capital": "Phnom Penh",
+    "idioma": "English, French",
+    "img": "Cambodia-01.png"
+  },
+  {
+    "nombre": "Cameroon",
+    "capital": "Yaoundé",
+    "idioma": "English, French",
+    "img": "Cameroon-01.png"
+  },
+  {
+    "nombre": "Canada",
+    "capital": "Ottawa",
+    "idioma": "English, French",
+    "img": "Canada-01.png"
+  },
+  {
     "nombre": "Chile",
     "capital": "Santiago de Chile",
     "idioma": "Español",
