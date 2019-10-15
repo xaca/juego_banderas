@@ -306,6 +306,12 @@
     "img": "Dominican Republic-01.png"
   },
   {
+    "nombre": "South Africa",
+    "capital": "Cape Town, Pretoria, Bloemfontein",
+    "idioma": "English, Afrikaans, Zulu, Xhosa, Southern Sotho, Tswana, Venda, Nothern Sotho, Tsonga, Swati, Ndebele",
+    "img": ""
+  },
+  {
     "nombre": "Sweden",
     "capital": "Stockholm",
     "idioma": "Swedish",
