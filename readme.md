@@ -10,6 +10,7 @@
 + [Thai](https://github.com/xaca/juego_banderas/blob/master/readme_th.md)
 + [Tagalog](https://github.com/xaca/juego_banderas/blob/master/readme_tag.md)
 + [Russian](https://github.com/xaca/juego_banderas/blob/master/readme_ru.md)
++ [Hungarian](https://github.com/xaca/juego_banderas/blob/master/readme_hun.md)
 
 Este repositorio se utilizará para realizar un juego de banderas inspirado en el programa de la serie de Big Bang Theory, donde el usuario podrá adivinar información de un país a partir de la imagen de su bandera.
 
