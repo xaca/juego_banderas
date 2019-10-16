@@ -229,7 +229,7 @@
     "img": "Congo Democratic Republic.png"
   },
   {
-    "nombre": "Cuba",
+    "nombre": { "en": "Cuba", "es": "Cuba" },
     "capital": "Havana",
     "idioma": ["Español"],
     "img": "Cuba-01.png"
@@ -253,7 +253,7 @@
     "img": "Denmark-01.png"
   },
   {
-    "nombre": "Dominica",
+    "nombre": { "en": "Dominica", "es": "Dominica" },
     "capital": "Roseau",
     "idioma": ["Inglés"],
     "img": "Dominica-01.png"
@@ -319,7 +319,7 @@
     "img": "Gabon-01.png"
   },
   {
-    "nombre": "Haití",
+    "nombre": { "en": "Haití", "es": "Haiti" },
     "capital": "Port-au-Prince",
     "idioma": ["Francés"],
     "img": ""
@@ -349,7 +349,7 @@
     "img": "Ireland-01.png"
   },
   {
-    "nombre": "Jamaica",
+    "nombre": { "en": "Jamaica", "es": "Jamaica" },
     "capital": "Kingston",
     "idioma": ["Inglés"],
     "img": "Jamaica-01.png"
@@ -415,13 +415,13 @@
     "img": "Peru-01.png"
   },
   {
-    "nombre": "Puerto Rico",
+    "nombre": { "en": "Puerto Rico", "es": "Puerto Rico" },
     "capital": "San Juan",
     "idioma": ["Español"],
     "img": "Puerto Rico-01.png"
   },
   {
-    "nombre": "República Dominicana",
+    "nombre": { "en": "Dominican Republic", "es": "República Dominicana" },
     "capital": "Santo Domingo",
     "idioma": "Español"],
     "img": "Dominican Republic-01.png"

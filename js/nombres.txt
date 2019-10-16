@@ -68,6 +68,7 @@ Grenada-01.png
 Guinea Bissau-01.png
 Guinea-01.png
 Guyane-01.png
+Haiti-01.png
 Honduras-01.png
 Hong Kong-01.png
 Hungary-01.png

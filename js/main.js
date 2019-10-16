@@ -69,6 +69,7 @@ imagenes.push("Grenada-01.png");
 imagenes.push("Guinea Bissau-01.png");
 imagenes.push("Guinea-01.png");
 imagenes.push("Guyane-01.png");
+imagenes.push("Haiti-01.png");
 imagenes.push("Honduras-01.png");
 imagenes.push("Hong Kong-01.png");
 imagenes.push("Hungary-01.png");
@@ -161,26 +162,25 @@ imagenes.push("Venezuela-01.png");
 imagenes.push("Vietnam-01.png");
 imagenes.push("Yemen-01.png");
 
-function aleatorio(mayor)
-{
-	return Number.parseInt(Math.random()*mayor);
+function aleatorio(mayor) {
+  return Number.parseInt(Math.random() * mayor);
 }
 
 function shuffle(a) {
-    var j, x, i;
-    for (i = a.length - 1; i > 0; i--) {
-        j = Math.floor(Math.random() * (i + 1));
-        x = a[i];
-        a[i] = a[j];
-        a[j] = x;
-    }
-    return a;
+  var j, x, i;
+  for (i = a.length - 1; i > 0; i--) {
+    j = Math.floor(Math.random() * (i + 1));
+    x = a[i];
+    a[i] = a[j];
+    a[j] = x;
+  }
+  return a;
 }
 
-window.onload = ()=>{
-	var html = "<img src='img/";
-	html += imagenes[aleatorio(imagenes.length)];
-	html += "' />";
-	bandera.innerHTML = html;
-	//alert(html);
-}
+window.onload = () => {
+  var html = "<img src='img/";
+  html += imagenes[aleatorio(imagenes.length)];
+  html += "' />";
+  bandera.innerHTML = html;
+  //alert(html);
+};
