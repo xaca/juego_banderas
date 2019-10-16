@@ -2,468 +2,470 @@
   {
     "nombre": "Afghanistan",
     "capital": "Kabul",
-    "idioma": "Persa",
+    "idioma": [
+	"Persa"
+    ],
     "img": "Afghanistan-01.png"
   },
   {
     "nombre": "Albania",
     "capital": "Tirana",
-    "idioma": "Tosk",
+    "idioma": ["Tosk"],
     "img": "Albania-01.png"
   },
   {
     "nombre": "Alemania",
     "capital": "Alemán",
-    "idioma": "Berlín",
+    "idioma": ["Berlín"],
     "img": "Germany-01.png"
   },
   {
     "nombre": "Algeria",
     "capital": "Algiers",
-    "idioma": "Arábica",
+    "idioma": ["Arábica"],
     "img": "Algeria-01.png"
   },
   {
     "nombre": "Andorra",
     "capital": "Andorra La Vella",
-    "idioma": "Catalán",
+    "idioma": ["Catalán"],
     "img": "Andorra-01.png"
   },
   {
     "nombre": "Angola",
     "capital": "Luanda",
-    "idioma": "Portugués",
+    "idioma": ["Portugués"],
     "img": "Angola-01.png"
   },
   {
     "nombre": "Antigua and Barbuda",
     "capital": "San Juan",
-    "idioma": "Inglés",
+    "idioma": ["Inglés"],
     "img": "Antigua and Barbuda-01.png"
   },
   {
     "nombre": "Argentina",
     "capital": "Buenos Aires",
-    "idioma": "Español",
+    "idioma": ["Español"],
     "img": "Argentina-01.png"
   },
   {
     "nombre": "Armenia",
     "capital": "Yerevan",
-    "idioma": "Armenio",
+    "idioma": ["Armenio"],
     "img": "Armenia-01.png"
   },
   {
     "nombre": "Australia",
     "capital": "Canberra",
-    "idioma": "Inglés",
+    "idioma": ["Inglés"],
     "img": "Australia-01.png"
   },
   {
     "nombre": "Austria",
     "capital": "Vienna",
-    "idioma": "Alemán",
+    "idioma": ["Alemán"],
     "img": "Austria-01.png"
   },
   {
     "nombre": "Azerbaijan",
     "capital": "Baku",
-    "idioma": "Turco azerbaiyano",
+    "idioma": ["Turco azerbaiyano"],
     "img": "Azerbaijan-01.png"
   },
    {
     "nombre": "Burundi",
     "capital": "Gitega",
-    "idioma": "Kirundi",
+    "idioma": ["Kirundi"],
     "img": "Burundi-01.png"
   },
   {
     "nombre": "Bahamas",
     "capital": "Nassau",
-    "idioma": "Inglés",
+    "idioma": ["Inglés"],
     "img": "Bahamas-01.png"
   },
   {
     "nombre": "Bahrain",
     "capital": "Manama",
-    "idioma": "Arábica",
+    "idioma": ["Arábica"],
     "img": "Bahrain-01.png"
   },
   {
     "nombre": "Bangladesh",
     "capital": "Dhaka",
-    "idioma": "Bengali",
+    "idioma": ["Bengali"],
     "img": "Bangladesh-01.png"
   },
   {
     "nombre": "Barbados",
     "capital": "Bridgetown",
-    "idioma": "Inglés",
+    "idioma": ["Inglés"],
     "img": "Barbados-01.png"
   },
   {
     "nombre": "Belarus",
     "capital": "Minsk",
-    "idioma": "Bielorruso",
+    "idioma": ["Bielorruso"],
     "img": "Belarus-01.png"
   },
 {
     "nombre": "Bélgica",
     "capital": "Bruselas",
-    "idioma": "	neerlandés",
+    "idioma": ["Neerlandés"],
     "img": "Belgium-01.png"
   },
   {
     "nombre": "Benin",
     "capital": "Porto-Novo",
-    "idioma": "Francés",
+    "idioma": ["Francés"],
     "img": "Benin-01.png"
   },
   {
     "nombre": "Bhutan",
     "capital": "Thimphu",
-    "idioma": "Dzongkha",
+    "idioma": ["Dzongkha"],
     "img": "Bhutan-01.png"
   },
   {
     "nombre": "Bolivia",
     "capital": "Sucre",
-    "idioma": "Español",
+    "idioma": ["Español"],
     "img": "Bolivia-01.png"
   },
   {
     "nombre": "Bosnia and Herzegovina",
     "capital": "Sarajevo",
-    "idioma": "Bosnian, Croatian, Serbian",
+    "idioma": ["Bosnian", "Croatian", "Serbian"],
     "img": "Bosnia and Herzegovina-01.png"
   },
   {
     "nombre": "Brasil",
     "capital": "Brasília",
-    "idioma": "Português",
+    "idioma": ["Português"],
     "img": "Brazil-01.png"
   },
   {
     "nombre": "Brunei",
     "capital": "Bandar seri Begawan",
-    "idioma": "Malay",
+    "idioma": ["Malay"],
     "img": "Brunei-01.png"
   },
   {
     "nombre": "Bulgaria",
     "capital": "Sofia",
-    "idioma": "Búlgaro",
+    "idioma": ["Búlgaro"],
     "img": "Bulgaria-01.png"
   },
    {
     "nombre": "Botswana",
     "capital": "Gaborone",
-    "idioma": "English",
+    "idioma": ["English"],
     "img": "Botswana-01.png"
   },
    {
     "nombre": "Cyprus",
     "capital": "Nicosia",
-    "idioma": "Greek",
+    "idioma": ["Greek"],
     "img": "Cyprus-01.png"
   },
   {
     "nombre": "Burkina Faso",
     "capital": "Ouagadougou",
-    "idioma": "Mòoré, Fula, Dioula",
+    "idioma": ["Mòoré", "Fula", "Dioula"],
     "img": "Burkina Faso-01.png"
   },
   {
     "nombre": "Burundi",
     "capital": "Gitega",
-    "idioma": "Kirundi, French, English",
+    "idioma": ["Kirundi", "French", "English"],
     "img": "Burundi-01.png"
   },
   {
     "nombre": "Cambodia",
     "capital": "Phnom Penh",
-    "idioma": "English, French",
+    "idioma": ["English", "French"],
     "img": "Cambodia-01.png"
   },
   {
     "nombre": "Cameroon",
     "capital": "Yaoundé",
-    "idioma": "English, French",
+    "idioma": ["English", "French"],
     "img": "Cameroon-01.png"
   },
   {
     "nombre": "Canada",
     "capital": "Ottawa",
-    "idioma": "English, French",
+    "idioma": ["English", "French"],
     "img": "Canada-01.png"
   },
   {
     "nombre": "Chile",
     "capital": "Santiago de Chile",
-    "idioma": "Español",
+    "idioma": ["Español"],
     "img": "Chile-01.png"
   },
   {
     "nombre": "China",
     "capital": "Beijing",
-    "idioma": "Mandarin",
+    "idioma": ["Mandarin"],
     "img": "China-01.png"
   },
   {
     "nombre": "Colombia",
     "capital": "Bogotá",
-    "idioma": "Español",
+    "idioma": ["Español"],
     "img": "Colombia-01.png"
   {
     "nombre": "Chipre",
     "capital": "Nicosia",
-    "idioma": "Griego",
+    "idioma": ["Griego"],
     "img": "Cyprus-01.png"
   },
   {
     "nombre": "Congo",
     "capital": "Kinshasa",
-    "idioma": "Francés",
+    "idioma": ["Francés"],
     "img": "Congo Democratic Republic.png"
   },
   {
     "nombre": "Cuba",
     "capital": "Havana",
-    "idioma": "Español",
+    "idioma": ["Español"],
     "img": "Cuba-01.png"
   },
   {
     "nombre": "Cambodia",
     "capital": " Phnom Penh",
-    "idioma": "Khmer",
+    "idioma": ["Khmer"],
     "img": "Cambodia-01.png"
   },
    {
     "nombre": "Chad",
     "capital": "N'Djamena",
-    "idioma": "Arabic",
+    "idioma": ["Arabic"],
     "img": "Chad-01.png"
   },
   {
     "nombre": "Dinamarca",
     "capital": "Copenhagen",
-    "idioma": "Danish",
+    "idioma": ["Danish"],
     "img": "Denmark-01.png"
   },
   {
     "nombre": "Dominica",
     "capital": "Roseau",
-    "idioma": "Inglés",
+    "idioma": ["Inglés"],
     "img": "Dominica-01.png"
   },
   {
     "nombre": "Egipto",
     "capital": "Cairo",
-    "idioma": "Árabe",
+    "idioma": ["Árabe"],
     "img": "Egypt-01.png"
   },
   {
     "nombre": "España",
     "capital": "Madrid",
-    "idioma": "Spanish",
+    "idioma": ["Spanish"],
     "img": "Spain-01.png"
   },
   {
     "nombre": "Finlandia",
     "capital": "Helsinki",
-    "idioma": "Finés",
+    "idioma": ["Finés"],
     "img": "Finland-01.png"
   },
   {
     "nombre": "France",
     "capital": "Paris",
-    "idioma": "French",
+    "idioma": ["French"],
     "img": "France-01.png"
   },
   {
     "nombre": "Gabon",
     "capital": "Libreville",
-    "idioma": "Francés",
+    "idioma": ["Francés"],
     "img": "Gabon-01.png"
   },
   {
     "nombre": "Haití",
     "capital": "Port-au-Prince",
-    "idioma": "Francés",
+    "idioma": ["Francés"],
     "img": ""
   },
   {
-	"nombre": "Hungría",
-	"capital": "Budapest",
-	"idioma": "Húngaro",
-	"img": "Hungary-01.png"
+    "nombre": "Hungría",
+    "capital": "Budapest",
+    "idioma": ["Húngaro"],
+    "img": "Hungary-01.png"
   },
   {
     "nombre": "India",
     "capital": "Delhi",
-    "idioma": "Hindi",
+    "idioma": ["Hindi"],
     "img": "India-01.png"
   },
   {
     "nombre": "Inglaterra",
     "capital": "London",
-    "idioma": "Inglés",
+    "idioma": ["Inglés"],
     "img": "England-01.png"
   },
   {
     "nombre": "Irlanda",
     "capital": "Dublin",
-    "idioma": "Inglés",
+    "idioma": ["Inglés"],
     "img": "Ireland-01.png"
   },
   {
     "nombre": "Jamaica",
     "capital": "Kingston",
-    "idioma": "Inglés",
+    "idioma": ["Inglés"],
     "img": "Jamaica-01.png"
   },
   {
     "nombre": "Japan",
     "capital": "Tokio",
-    "idioma": "Japones",
+    "idioma": ["Japones"],
     "img": "Japan-01.png"
   },
   {
     "nombre": "Luxemburgo",
     "capital": "Luxembourg",
-    "idioma": "Luxembourgish",
+    "idioma": ["Luxembourgish"],
     "img": "Luxembourg-01.png"
   },
   {
     "nombre": "Macedonia",
     "capital": "Skopje",
-    "idioma": "Macedonio",
+    "idioma": ["Macedonio"],
     "img": "Macedonia-01.png"
   },
   {
     "nombre": "Madagascar",
     "capital": "Antananarivo",
-    "idioma": "Malgache",
+    "idioma": ["Malgache"],
     "img": "Madagascar-01.png"
   },
   {
     "nombre": "Malasia",
     "capital": "Kuala Lumpur",
-    "idioma": "Malayo",
+    "idioma": ["Malayo"],
     "img": "Malaysia-01.png"
   },
   {
     "nombre": "Mali",
     "capital": "Bamako",
-    "idioma": "Francés",
+    "idioma": ["Francés"],
     "img": "Mali-01.png"
   },
   {
     "nombre": "Mauritius",
     "capital": "Port Louis",
-    "idioma": "Francés",
+    "idioma": ["Francés"],
     "img": "Mauritius-01.png"
   },
   {
     "nombre": "México",
     "capital": "Ciudad de México",
-    "idioma": "Español",
+    "idioma": ["Español"],
     "img": "Mexico-01.png"
   },
   {
     "nombre": "Nigeria",
     "capital": "FCT Abuja",
-    "idioma": "Inglés",
+    "idioma": ["Inglés"],
     "img": "Nigeria-01.png"
   },
   {
     "nombre": "Perú",
     "capital": "Lima",
-    "idioma": "Español",
+    "idioma": ["Español"],
     "img": "Peru-01.png"
   },
   {
     "nombre": "Puerto Rico",
     "capital": "San Juan",
-    "idioma": "Español",
+    "idioma": ["Español"],
     "img": "Puerto Rico-01.png"
   },
   {
     "nombre": "República Dominicana",
     "capital": "Santo Domingo",
-    "idioma": "Español",
+    "idioma": "Español"],
     "img": "Dominican Republic-01.png"
   },
   {
     "nombre": "South Africa",
     "capital": "Cape Town, Pretoria, Bloemfontein",
-    "idioma": "English, Afrikaans, Zulu, Xhosa, Southern Sotho, Tswana, Venda, Nothern Sotho, Tsonga, Swati, Ndebele",
+    "idioma": ["English", "Afrikaans", "Zulu", "Xhosa", "Southern Sotho", "Tswana", "Venda", "Nothern Sotho", "Tsonga", "Swati", "Ndebele"],
     "img": ""
   },
   {
     "nombre": "Sweden",
     "capital": "Stockholm",
-    "idioma": "Swedish",
+    "idioma": ["Swedish"],
     "img": "Sweden-01.png"
   },
   {
     "nombre": "Switzerland",
     "capital": "Bern",
-    "idioma": "German",
+    "idioma": ["German"],
     "img": "Switzerland-01.png"
   },
   {
     "nombre": "Thailand",
     "capital": "Bangkok",
-    "idioma": "Thai",
+    "idioma": ["Thai"],
     "img": "Thailand-01.png"
   },
   {
     "nombre": "Taiwan",
     "capital": "Taipéi",
-    "idioma": "Mandarin",
+    "idioma": ["Mandarin"],
     "img": "Taiwan-01.png"
   },
   {
     "nombre": "United Kingdom",
     "capital": "London",
-    "idioma": "Inglés",
+    "idioma": ["Inglés"],
     "img": "United Kingdom-01.png"
   },
   {
     "nombre": "United States of America",
     "capital": "Washington, DC",
-    "idioma": "Inglés",
+    "idioma": ["Inglés"],
     "img": "United States of America-01.png"
   },
   {
     "nombre": "Uruguay",
     "capital": "Montevideo",
-    "idioma": "Español",
+    "idioma": ["Español"],
     "img": "Uruguay-01.png"
   },
   {
     "nombre": "Ukraine",
     "capital": "Kiev",
-    "idioma": "Ukrainian",
+    "idioma": ["Ukrainian"],
     "img": "Ukraine-01.png"
   },
   {
     "nombre": "Venezuela",
     "capital": "Caracas",
-    "idioma": "Español",
+    "idioma": ["Español"],
     "img": "Venezuela-01.png"
   },
   {
     "nombre": "Vietnam",
     "capital": "Hanoi",
-    "idioma": "Vietnamita",
+    "idioma": ["Vietnamita"],
     "img": "Vietnam-01.png"
   },
   {
     "nombre": "Yemen",
     "capital": "Sana'a",
-    "idioma": "árabe",
+    "idioma": ["árabe"],
     "img": "Yemen-01.png"
   }
 ]
