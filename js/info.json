@@ -343,6 +343,12 @@
     "img": "England-01.png"
   },
   {
+    "nombre": "Iran",
+    "capital": "Tehran",
+    "idioma": ["Persian"],
+    "img": "Iran-01.png"
+  },
+  {
     "nombre": "Irlanda",
     "capital": "Dublin",
     "idioma": ["Inglés"],
@@ -455,6 +461,12 @@
     "capital": "Taipéi",
     "idioma": ["Mandarin"],
     "img": "Taiwan-01.png"
+  },
+  {
+    "nombre": "Turkey",
+    "capital": "Istanbul",
+    "idioma": ["Turkish"],
+    "img": "Turkey-01.png"
   },
   {
     "nombre": "United Kingdom",
