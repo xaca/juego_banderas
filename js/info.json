@@ -423,7 +423,7 @@
   {
     "nombre": { "en": "Dominican Republic", "es": "República Dominicana" },
     "capital": "Santo Domingo",
-    "idioma": "Español"],
+    "idioma": ["Español"],
     "img": "Dominican Republic-01.png"
   },
   {
@@ -437,6 +437,18 @@
     "capital": "Stockholm",
     "idioma": ["Swedish"],
     "img": "Sweden-01.png"
+  },
+  {
+    "nombre": "Sweden",
+    "capital": "Stockholm",
+    "idioma": ["Turkey"],
+    "img": "Turkey-01.png"
+  },
+  {
+    "nombre": "United Arab Emirates",
+    "capital": "Abu Dabi",
+    "idioma": ["Arabic"],
+    "img": "United Arab Emirates-01.png"
   },
   {
     "nombre": "Switzerland",
