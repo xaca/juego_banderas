@@ -497,5 +497,45 @@
     "capital": "Sana'a",
     "idioma": ["árabe"],
     "img": "Yemen-01.png"
+  },
+  {
+    "nombre": { "en": "Iran", "es": "Irán" },
+    "capital": "Tehran",
+    "idioma": ["Persian"],
+    "img": "Iran-01.png"
+  },
+  {
+    "nombre": { "en": "Iraq", "es": "Irak" },
+    "capital": "Baghdad",
+    "idioma": ["Arabic"],
+    "img": "Iraq-01.png"
+  }
+  ,
+  {
+    "nombre": { "en": "Turkey", "es": "Turquía" },
+    "capital": "Ankara",
+    "idioma": ["Turkish"],
+    "img": "Turkey-01.png"
+  }
+  ,
+  {
+    "nombre": { "en": "Pakistan", "es": "Pakistán" },
+    "capital": "Islamabad",
+    "idioma": ["Urdu"],
+    "img": "pakistan-01.png"
+  }
+  ,
+  {
+    "nombre": { "en": "Pakistan", "es": "Pakistán" },
+    "capital": "Islamabad",
+    "idioma": ["Urdu"],
+    "img": "pakistan-01.png"
+  }
+  ,
+  {
+    "nombre": { "en": "Trinidad and Tobago", "es": "Trinidad y Tobago" },
+    "capital": "Port of Spain",
+    "idioma": ["English"],
+    "img": "Trinidad and tobago-01.png"
   }
 ]
