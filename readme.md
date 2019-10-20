@@ -4,6 +4,7 @@
 + [Portugues](https://github.com/xaca/juego_banderas/blob/master/readme_por.md)
 + [Francais](https://github.com/xaca/juego_banderas/blob/master/readme_fr.md)
 + [German](https://github.com/xaca/juego_banderas/blob/master/readme_ger.md)
++ [Italian](https://github.com/xaca/juego_banderas/blob/master/readme_ita.md)
 + [Czech](https://github.com/xaca/juego_banderas/blob/master/readme_czech.md)
 + [Hindi](https://github.com/xaca/juego_banderas/blob/master/readme_hindi.md)
 + [Slovak](https://github.com/xaca/juego_banderas/blob/master/readme_slovak.md)
