@@ -404,6 +404,18 @@
     "img": "Mexico-01.png"
   },
   {
+    "nombre": "Mozambique",
+    "capital": "Maputo",
+    "idioma": ["Portugués"],
+    "img": "Mozambique-01.png"
+  },
+  {
+    "nombre": "Netherlands",
+    "capital": "Amsterdam",
+    "idioma": ["Holandés"],
+    "img": "Netherlands-01.png"
+  },
+  {
     "nombre": "Nigeria",
     "capital": "FCT Abuja",
     "idioma": ["Inglés"],
@@ -414,6 +426,12 @@
     "capital": "Lima",
     "idioma": ["Español"],
     "img": "Peru-01.png"
+  },
+  {
+    "nombre": "Portugal",
+    "capital": "Lisbon",
+    "idioma": ["Portugués"],
+    "img": "Portugal-01.png"
   },
   {
     "nombre": { "en": "Puerto Rico", "es": "Puerto Rico" },
@@ -498,6 +516,18 @@
     "capital": "Sana'a",
     "idioma": ["árabe"],
     "img": "Yemen-01.png"
+  },
+  {
+    "nombre": "Zambia",
+    "capital": "Lusaka",
+    "idioma": ["Inglés"],
+    "img": "Zambia-01.png"
+  },
+  {
+    "nombre": "Zimbabwe",
+    "capital": "Harare",
+    "idioma": ["Inglés", "Shona", "Ndebele"],
+    "img": "Zimbabwe-01.png"
   },
   {
     "nombre": { "en": "Iran", "es": "Irán" },
