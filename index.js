@@ -1,1 +1,1 @@
-grunt
+console.log(":)");
