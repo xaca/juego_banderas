@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/xaca/juego_banderas#readme",
   "devDependencies": {
+    "grunt": "^1.1.0",
     "grunt-mkdir": "^1.0.0"
   }
 }
