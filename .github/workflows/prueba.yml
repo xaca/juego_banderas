@@ -9,9 +9,8 @@ jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-    - name: 'Install node'
-      uses: actions/setup-nodev1
-    - name: 'Install NPM dependecies'
-      run: npm install
-    - name: 'Run code'
-      run: node index.js    
+    - uses: actions/checkout@v1
+    
+    - run: npm ci
+    - run: npm test
+    - uses: ./   
