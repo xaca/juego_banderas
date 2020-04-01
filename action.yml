@@ -1,0 +1,8 @@
+name: 'Crear carpeta'
+description: 'Crea una carpeta temporal'
+outputs:
+  log: # Información de la tarea terminada 
+    description: 'Revisa tu proyecto, se creo una carpeta'
+runs:
+  using: 'node12'
+  main: 'index.js'

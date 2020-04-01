@@ -4,16 +4,14 @@ on:
   push:
     branches:
       - master
-      - 'releases/*'
 
 jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v1
-
-    - run: npm ci
-    - run: npm test
-    - uses: ./
-      with:
-        milliseconds: 1000
+    - name: 'Install node'
+      uses: actions/setup-nodev1
+    - name: 'Install NPM dependecies'
+      run: npm install
+    - name: 'Run code'
+      run: node index.js    

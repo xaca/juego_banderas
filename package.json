@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/xaca/juego_banderas/issues"
   },
-  "homepage": "https://github.com/xaca/juego_banderas#readme"
+  "homepage": "https://github.com/xaca/juego_banderas#readme",
+  "devDependencies": {
+    "grunt-mkdir": "^1.0.0"
+  }
 }
