@@ -62,6 +62,37 @@
     "img": "Australia-01.png"
   },
   {
+    "nombre": "Trinidad and Tobago",
+    "capital": "Port of Spain",
+    "idioma":["Inglés"],
+    "img":"Trinidad and Tobago-01.png"
+  },
+  {
+    "nombre": "Tonga",
+    "capital":"Nakualofa",
+    "idioma":["Tongano, Inglés"],
+    "img":["Tonga-01.png"]
+  },
+{
+  "nombre":"Tunisia",
+  "capital":"Tunes",
+  "idioma":"árabe",
+  "img":"Tunisia-01.png"
+},
+{
+  "nombre":"Turkey",
+  "capital":"Ankara",
+  "idioma":"Turkish",
+  "img":"Turkey-01.png"
+},
+{
+  "nombre":"United Arab Emirates",
+  "capital":"Abu Dhabi",
+  "idioma":"Arabic",
+  "img":"United Arab Emirates-01.png"
+}
+
+  {
     "nombre": "Austria",
     "capital": "Vienna",
     "idioma": ["Alemán"],
