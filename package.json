@@ -2,9 +2,9 @@
   "name": "juego_banderas",
   "version": "1.0.0",
   "description": "+ [English](https://github.com/xaca/juego_banderas/blob/master/readme_eng.md)\r + [Portugues](https://github.com/xaca/juego_banderas/blob/master/readme_por.md)\r + [Francais](https://github.com/xaca/juego_banderas/blob/master/readme_fr.md)\r + [German](https://github.com/xaca/juego_banderas/blob/master/readme_ger.md)\r + [Italian](https://github.com/xaca/juego_banderas/blob/master/readme_ita.md)\r + [Czech](https://github.com/xaca/juego_banderas/blob/master/readme_czech.md)\r + [Hindi](https://github.com/xaca/juego_banderas/blob/master/readme_hindi.md)\r + [Slovak](https://github.com/xaca/juego_banderas/blob/master/readme_slovak.md)\r + [Thai](https://github.com/xaca/juego_banderas/blob/master/readme_th.md)\r + [Tagalog](https://github.com/xaca/juego_banderas/blob/master/readme_tag.md)\r + [Russian](https://github.com/xaca/juego_banderas/blob/master/readme_ru.md)\r + [Hungarian](https://github.com/xaca/juego_banderas/blob/master/readme_hun.md)",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server"
   },
   "repository": {
     "type": "git",
@@ -17,8 +17,7 @@
     "url": "https://github.com/xaca/juego_banderas/issues"
   },
   "homepage": "https://github.com/xaca/juego_banderas#readme",
-  "devDependencies": {
-    "grunt": "^1.1.0",
-    "grunt-mkdir": "^1.0.0"
+  "dependencies": {
+    "http-server": "^0.12.3"
   }
 }
