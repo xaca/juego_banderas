@@ -43,3 +43,9 @@ Tenemos otros proyectos para participar y colaborar, si estas buscando nuevos pr
 + [hola mundo](https://github.com/xaca/holamundo.co)
 
 ¡Muchas gracias por su ayuda!
+
+## Referencias programa
+
++ [NPM http-serve](https://www.npmjs.com/package/http-server)
++ [Instrucciones de uso paquete NP](https://stackoverflow.com/questions/31328365/how-to-start-http-server-locally)
++ [Fetch - vanilla JS](https://howtocreateapps.com/fetch-and-display-json-html-javascript/)
