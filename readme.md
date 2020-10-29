@@ -43,3 +43,6 @@ Tenemos otros proyectos para participar y colaborar, si estas buscando nuevos pr
 + [hola mundo](https://github.com/xaca/holamundo.co)
 
 ¡Muchas gracias por su ayuda!
+
++ [JS Template literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
++ [Ascii code - back-tip](https://superuser.com/questions/254076/how-do-i-type-the-tick-and-backtick-characters-on-windows)

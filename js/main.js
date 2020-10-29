@@ -8,7 +8,7 @@ function cargarDatos()
   .then(data => {
     imagenes = data;
   })
-  .then(()=>cargarImagen())
+  .then(()=>actualizarBandera())
   .catch((error) => {
     console.error('Error:', error);
   });
@@ -30,15 +30,23 @@ function shuffle(a) {
   return a;
 }
 
-function cargarImagen()
+function asignarNombre(obj,idioma)
+{
+  return obj[idioma]?obj[idioma]:obj["en"];
+}
+
+function actualizarBandera()
 {
   let datos = imagenes[aleatorio(imagenes.length)];
-  bandera.style.backgroundImage = "url(img/"+datos.img+")";
+  bandera.style.backgroundImage = `url(img/${datos.img})`;
+  nombre.innerHTML = `Nombre: ${asignarNombre(datos.nombre,"es")}`;
+  capital.innerHTML = `Capital: ${datos.capital}`;
+  //idioma.innerHTML = datos.idioma;
 }
 
 function asignarEventos()
 {
-  btn_actualizar.addEventListener("click",(event)=>{cargarImagen()});
+  btn_actualizar.addEventListener("click",(event)=>actualizarBandera());
 }
 
 window.onload = () => {
