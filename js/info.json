@@ -2,9 +2,7 @@
   {
     "nombre": {"en":"Afghanistan"},
     "capital": "Kabul",
-    "idioma": [
-	"Persa"
-    ],
+    "idioma": ["Persa"],
     "img": "Afghanistan-01.png"
   },
   {

@@ -49,3 +49,5 @@ Tenemos otros proyectos para participar y colaborar, si estas buscando nuevos pr
 + [NPM http-serve](https://www.npmjs.com/package/http-server)
 + [Instrucciones de uso paquete NP](https://stackoverflow.com/questions/31328365/how-to-start-http-server-locally)
 + [Fetch - vanilla JS](https://howtocreateapps.com/fetch-and-display-json-html-javascript/)
++ [JS Template literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
++ [Ascii code - back-tip](https://superuser.com/questions/254076/how-do-i-type-the-tick-and-backtick-characters-on-windows)
