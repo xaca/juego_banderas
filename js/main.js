@@ -36,6 +36,12 @@ function cargarImagen()
   bandera.style.backgroundImage = "url(img/"+datos.img+")";
 }
 
+function asignarEventos()
+{
+  btn_actualizar.addEventListener("click",(event)=>{cargarImagen()});
+}
+
 window.onload = () => {
   cargarDatos();
+  asignarEventos();
 };
